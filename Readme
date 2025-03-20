@@ -1,0 +1,17 @@
+Project: [React Native] E-comerce
+
+Time: 11/2024 – 12/2024
+
+Description:
+
+Overview:This is an e-commerce exercise with CRUD features.(add, edit, delete, etc.).
+
+User flow: This mobile application includes the main screen displaying the product list and features such as adding, deleting, editing products, calling APIs, optimizing the user interface for mobile devices, and more.
+
+Number of Members: 1 designer, 1 dev
+
+Technologies used (framework,library,..): ReactNative, Redux(RTK), ES6, Restful API,NPM, GIT…
+
+The part I have implemented:
+
+In this project, I play the role of a fulltask mobile developer, responsible for both the interface and logic of the customer-facing pages, and user management (addition, deletion, editing, updating, and searching)…. Additionally, I also participate in creating the UI design.
